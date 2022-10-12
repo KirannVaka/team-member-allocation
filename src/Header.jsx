@@ -5,7 +5,8 @@ const Header = ({ selectedTeam, teamMemberCount }) => {
         <div className="col-8">
           <h1>Team Member Allocation</h1>
           <p>
-            Total Team Memebrs in {selectedTeam} is: {teamMemberCount}
+            Total Team {teamMemberCount === 1 ? "member" : "members"} in
+            {selectedTeam} is: {teamMemberCount}
           </p>
         </div>
       </div>
