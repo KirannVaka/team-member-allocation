@@ -32,6 +32,7 @@ function GroupedTeamMembers({ employees, selectedTeam, setTeam }) {
     );
 
     setGroupedData(updatedGroupedData);
+    setTeam(currentTarget.id);
   };
 
   return (
