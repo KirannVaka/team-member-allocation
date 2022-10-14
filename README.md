@@ -23,11 +23,11 @@ Team Memeber Allocation is a website designed for managers/Team Laeds to keep tr
 
 - Screenshot of Home Page
   \
-   <img src="https://github.com/KirannVaka/recepie-book/blob/master/src/images/Screenshot%202022-10-14%20154625.jpg" width=50% height=50%>
+   <img src="https://github.com/KirannVaka/team-member-allocation/blob/master/src/images/Screenshot%202022-10-14%20165159.jpg" width=50% height=50%>
 
 - Screenshot of Modal Page
   \
-  <img src="https://github.com/KirannVaka/recepie-book/blob/master/src/images/Screenshot%202022-10-14%20154723.jpg" width=50% height=50%>
+  <img src="https://github.com/KirannVaka/team-member-allocation/blob/master/src/images/Screenshot%202022-10-14%20165227.jpg" width=50% height=50%>
 
 ## Technologies
 
