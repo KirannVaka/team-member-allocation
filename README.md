@@ -44,4 +44,4 @@ I adopted the `BEM` naming style for my css class names and ... -->
 
 ## Status
 
-[Recepie-Book] is still in progress. `Version 2` will be out soon.
+**Team-Member-Allocation** is still in progress. `Version 2` will be out soon.
