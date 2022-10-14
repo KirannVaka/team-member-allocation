@@ -25,7 +25,7 @@ Team Memeber Allocation is a website designed for managers/Team Laeds to keep tr
   \
    <img src="https://github.com/KirannVaka/team-member-allocation/blob/master/src/images/Screenshot%202022-10-14%20165159.jpg" width=50% height=50%>
 
-- Screenshot of Modal Page
+- Screenshot of Teams Page
   \
   <img src="https://github.com/KirannVaka/team-member-allocation/blob/master/src/images/Screenshot%202022-10-14%20165227.jpg" width=50% height=50%>
 
