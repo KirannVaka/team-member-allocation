@@ -128,13 +128,7 @@ function App() {
   return (
     <Router>
       <Nav />
-      <Header
-        selectedTeam={selectedTeam}
-        teamMemberCount={
-          employees.filter((employee) => employee.teamName === selectedTeam)
-            .length
-        }
-      />
+
       <Routes>
         <Route
           path="/team-member-allocation"
