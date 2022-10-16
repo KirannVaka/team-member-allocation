@@ -137,7 +137,7 @@ function App() {
       />
       <Routes>
         <Route
-          path="/"
+          path="/team-member-allocation"
           element={
             <Employees
               employees={employees}
@@ -148,7 +148,7 @@ function App() {
           }
         />
         <Route
-          path="/GroupedTeamMembers"
+          path="team-member-allocation/GroupedTeamMembers"
           element={
             <GroupedTeamMembers
               employees={employees}
