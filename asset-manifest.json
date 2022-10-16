@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/KirannVaka.github.io/team-member-allocation/static/css/main.27f8382b.css",
-    "main.js": "/KirannVaka.github.io/team-member-allocation/static/js/main.bc85c37f.js",
-    "static/js/787.784f0d9a.chunk.js": "/KirannVaka.github.io/team-member-allocation/static/js/787.784f0d9a.chunk.js",
-    "static/media/maleProfile.jpg": "/KirannVaka.github.io/team-member-allocation/static/media/maleProfile.657c4196488ead649e93.jpg",
-    "static/media/femaleProfile.jpg": "/KirannVaka.github.io/team-member-allocation/static/media/femaleProfile.48d77dc2519df08d5cc5.jpg",
-    "index.html": "/KirannVaka.github.io/team-member-allocation/index.html",
-    "main.27f8382b.css.map": "/KirannVaka.github.io/team-member-allocation/static/css/main.27f8382b.css.map",
-    "main.bc85c37f.js.map": "/KirannVaka.github.io/team-member-allocation/static/js/main.bc85c37f.js.map",
-    "787.784f0d9a.chunk.js.map": "/KirannVaka.github.io/team-member-allocation/static/js/787.784f0d9a.chunk.js.map"
+    "main.css": "/team-member-allocation/static/css/main.27f8382b.css",
+    "main.js": "/team-member-allocation/static/js/main.e906f687.js",
+    "static/js/787.784f0d9a.chunk.js": "/team-member-allocation/static/js/787.784f0d9a.chunk.js",
+    "static/media/maleProfile.jpg": "/team-member-allocation/static/media/maleProfile.657c4196488ead649e93.jpg",
+    "static/media/femaleProfile.jpg": "/team-member-allocation/static/media/femaleProfile.48d77dc2519df08d5cc5.jpg",
+    "index.html": "/team-member-allocation/index.html",
+    "main.27f8382b.css.map": "/team-member-allocation/static/css/main.27f8382b.css.map",
+    "main.e906f687.js.map": "/team-member-allocation/static/js/main.e906f687.js.map",
+    "787.784f0d9a.chunk.js.map": "/team-member-allocation/static/js/787.784f0d9a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.27f8382b.css",
-    "static/js/main.bc85c37f.js"
+    "static/js/main.e906f687.js"
   ]
 }
