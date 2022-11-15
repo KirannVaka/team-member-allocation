@@ -17,7 +17,7 @@ Access my site at [google.com](https://google.com) -->
 
 ## About The App
 
-Team Memeber Allocation is a website designed for managers/Team Laeds to keep track of team members working in ateam. This is really usefull if the team members are working on diffrent projects have to switched between projects.
+Team Memeber Allocation is a website designed for managers/Team Laeds to keep track of team members working in a team. This is really usefull if the team members are working on diffrent projects have to switched between projects.
 
 ## Screenshots
 
